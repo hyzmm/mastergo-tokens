@@ -1,0 +1,6 @@
+{
+  "name": "master-go-tokens",
+  "id": 85675674225560,
+  "main": "dist/main.js",
+  "ui": "dist/index.html"
+}
